@@ -9,5 +9,8 @@ Computer Science:
 Orgnanic Chemistry: 
   * The Organic Chemistry Tutor: https://www.youtube.com/watch?v=n5vjCqnVb6s&list=PL0o_zxa4K1BW9NxZjS9ybwT0MVHVYcjvd 
 
-Biochemistry
+Biochemistry:
   * Kevin Ahern (Oregon State University): https://www.youtube.com/watch?v=JSntf0iKMfM&list=PLlnFrNM93wqz37TUabcXFSNX2nJtrJnkx 
+
+Inorganic Chemistry: 
+  * UC Irvine Chemistry 107: Inorganic Chemistry Playlist: https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7kGnKLTbdwZ3IGVNXK43k7S  
