@@ -14,3 +14,6 @@ Biochemistry:
 
 Inorganic Chemistry: 
   * UC Irvine Chemistry 107: Inorganic Chemistry Playlist: https://www.youtube.com/watch?v=wJGR5Y-Qqac&list=PLqOZ6FD_RQ7kGnKLTbdwZ3IGVNXK43k7S  
+
+Calculus: 
+  * A more abstract approach to understanding calculus: https://www.youtube.com/watch?v=WUvTyaaNkzM&t=58s 
