@@ -1,5 +1,5 @@
 # OpenSourceEducation
-Helpful resources, that are mostly free, 
+Helpful resources for learning different topics related to chemistry, biology, mathematics, or computer science
 
 
 ## Computer Science
