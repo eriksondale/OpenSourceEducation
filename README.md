@@ -4,7 +4,7 @@ Helpful resources for learning different topics related to chemistry, biology, m
 
 ## Computer Science
   * Crash Course Computer Science: https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
- #Machine Learning 
+#Machine Learning 
   * Google Crash Course in ML: https://developers.google.com/machine-learning/crash-course/ml-intro
 
 ## Orgnanic Chemistry
