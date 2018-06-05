@@ -7,6 +7,7 @@ Helpful resources for learning different topics related to chemistry, biology, m
 
 ## Orgnanic Chemistry
   * The Organic Chemistry Tutor: https://www.youtube.com/watch?v=n5vjCqnVb6s&list=PL0o_zxa4K1BW9NxZjS9ybwT0MVHVYcjvd 
+  * Organic Chemistry as a Second Language: https://www.amazon.com/Organic-Chemistry-As-Second-Language/dp/111801040X  
 
 ## Biochemistry
   * Kevin Ahern (Oregon State University): https://www.youtube.com/watch?v=JSntf0iKMfM&list=PLlnFrNM93wqz37TUabcXFSNX2nJtrJnkx 
