@@ -3,8 +3,12 @@ Helpful resources for learning different topics related to chemistry, biology, m
 
 
 ## Computer Science
+  ### General Introduction to the Field 
   * Crash Course Computer Science: https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+  
+  ### Machine Learning
   * Google Crash Course in Machine Learning: https://developers.google.com/machine-learning/crash-course/ml-intro
+
 
 ## Orgnanic Chemistry
   * The Organic Chemistry Tutor: https://www.youtube.com/watch?v=n5vjCqnVb6s&list=PL0o_zxa4K1BW9NxZjS9ybwT0MVHVYcjvd 
@@ -18,3 +22,4 @@ Helpful resources for learning different topics related to chemistry, biology, m
 
 ## Calculus
   * A more abstract approach to understanding calculus: https://www.youtube.com/watch?v=WUvTyaaNkzM&t=58s 
+  * Professor Leonard (A little long imo, but amazing quality!): https://www.youtube.com/user/professorleonard57
