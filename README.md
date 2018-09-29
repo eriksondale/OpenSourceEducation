@@ -1,6 +1,12 @@
 # OpenSourceEducation
-Helpful resources for learning different topics related to chemistry, biology, mathematics, or computer science
+I'm a strong believer in education being free. Regardless of who you are or where you come from, you should be able to learn what you want. 
 
+Below are great resources for learning different topics related to chemistry, biology, mathematics, or computer science. I have personally found them helpful/entertaining and I hope you will too! 
+
+## Comprehensive MOOC's (Massive Open Online Course) Lists
+  * https://github.com/iteachmachines/Free-Computer-Science-University 
+  * https://github.com/mvillaloboz/open-source-cs-degree 
+  * https://github.com/czbiohub/learn-bioinformatics 
 
 ## Computer Science
   ### General Introduction to the Field 
