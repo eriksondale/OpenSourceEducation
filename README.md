@@ -7,6 +7,7 @@ Below are great resources for learning different topics related to chemistry, bi
   * https://github.com/iteachmachines/Free-Computer-Science-University 
   * https://github.com/mvillaloboz/open-source-cs-degree 
   * https://github.com/czbiohub/learn-bioinformatics 
+  * https://teachyourselfcs.com/
 
 ## Computer Science
   ### General Introduction to the Field 
