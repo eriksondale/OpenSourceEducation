@@ -12,6 +12,9 @@ Below are great resources for learning different topics related to chemistry, bi
 ## Computer Science
   ### General Introduction to the Field 
   * Crash Course Computer Science: https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+  ### Boolean Logic 
+  
+  ### Logic Gates
   
   ### Machine Learning
   * Google Crash Course in Machine Learning: https://developers.google.com/machine-learning/crash-course/ml-intro
