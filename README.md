@@ -1,7 +1,7 @@
 # OpenSourceEducation
 I'm a strong believer in education being free. Regardless of who you are or where you come from, you should be able to learn what you want. 
 
-Below are great resources for learning different topics related to chemistry, biology, mathematics, or computer science. I have personally found them helpful/entertaining and I hope you will too! 
+Below are resources I have curated for learning different topics related to STEM. I will add more classes, books, videos, etc. as I find them! 
 
 ## Comprehensive MOOC's (Massive Open Online Course) Lists
   * https://github.com/iteachmachines/Free-Computer-Science-University 
