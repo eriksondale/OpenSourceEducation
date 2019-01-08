@@ -23,4 +23,4 @@ Below are resources I have curated for learning different topics related to STEM
 
 
 ## Calculus
-  * [Professor Leonard)[https://www.youtube.com/user/professorleonard57]
+  * [Professor Leonard](https://www.youtube.com/user/professorleonard57)
