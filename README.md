@@ -7,19 +7,21 @@ P.S. I recommend checking out my starred repositories!
 
 P.S.S. If there is a book, there is probably a free one out there (wink wink) 
 
-## Comprehensive MOOC's (Massive Open Online Course) Lists
-  * https://github.com/iteachmachines/Free-Computer-Science-University 
-  * https://github.com/mvillaloboz/open-source-cs-degree 
-  * https://github.com/czbiohub/learn-bioinformatics 
-  * https://teachyourselfcs.com/ 
-
 ## Calculus
   * [Professor Leonard](https://www.youtube.com/user/professorleonard57)
   * [Khan Academy](https://www.khanacademy.org/math/calculus-1)  
   
 ## Computer Science
+### General 
   * [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+### Beginner Topics & Language Learning 
+  * [Code Academy](https://www.codecademy.com/) 
+  * [Automate The Boring Stuff With Python](https://automatetheboringstuff.com/) 
+
+### Machine Learning
   * [Google Crash Course in Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 
 ## Organic Chemistry
   * [The Organic Chemistry Tutor](https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA)
