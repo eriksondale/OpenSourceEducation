@@ -1,7 +1,8 @@
-# OpenSourceEducation
 I'm a strong believer in education being free. Regardless of who you are or where you come from, you should be able to learn what you want. 
 
-Below are resources I have curated for learning different topics related to STEM. I will add more classes, books, videos, etc. as I find them! 
+Below are resources I have curated for learning different topics related to STEM. I will add more classes, books, videos, etc. as I find them! As always, it is a continual work in progress. 
+
+# **There is a BIG Update Coming Soon! Stay Tuned!** 
 
 P.S. I recommend checking out my starred repositories!
 
